@@ -1,12 +1,9 @@
----
-
-### :technologist: About Me :
+### :technologist: About Me 
 I am a Full Stack Developer
 
 - 🌱 I’m currently learning Swift
+- :book: Worked Extensively with Angular and React
 - 📫 How to reach me: singpurwalakevin@gmail.com
-
----
 
 ###
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -25,23 +22,14 @@ I am a Full Stack Developer
 
 
 
-### :hand : Skills :
-I have been professionally programming Python since 2016 and have completed projects involving advanced calculations for engineering projects, machine learning with TensorFlow and custom crypto technology.
-
+### :swimmer:  Skills :
+I have been professionally programming since 2019.
 <!-- https://github.com/tandpfun/skill-icons#icons-list -->
 <div align="left">
-	<img src="https://skillicons.dev/icons?i=bash,c,cs,cpp,d3,dotnet,git,github,html,java,js,linux,md,mysql,processing,py,swift,tensorflow,vim,wordpress&perline=10" alt="Skills">
+	<img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,html,css,ts,java,linux,mysql,py,swift,docker,figma,latex,linux,react,angular,&perline=10" alt="Skills">
 </div>
 
 ### :art: Creative Tools :
 I have many interests outside of programming inlcuding chess and video editing.
 
-<img src="https://skillicons.dev/icons?i=ae,ai" alt="Creative tools">
-
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://skillicons.dev/icons?i=ae,ai,pr" alt="Creative tools">
