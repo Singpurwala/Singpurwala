@@ -1,41 +1,11 @@
-### Hi there 👋
-
-<!--
-**Singpurwala/Singpurwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...a
-<!-- https://shields.io/ -->
-<div id="header" align="center">
-  <img src="media/profile-transparant.svg" width="100"/>
-  <div id="badges">
-	<a href="https://www.linkedin.com/in/xcarroll/">
-		<img src="https://img.shields.io/badge/LinkedIn-393C46?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2" alt="LinkedIn Badge"/>
-	</a>
-	<a href="https://minimise.dev/">
-		<img src="https://img.shields.io/badge/minimise-dev-393C46?style=for-the-badge&color=EC6576&labelColor=393C46" alt="Website badge"/>
-	</a>
-	<a href="mailto:dev-yoda@proton.me">
-		<img src="https://img.shields.io/badge/dev--yoda@proton.me-393C46?style=for-the-badge&logo=ProtonMail" alt="Email badge"/>
-	</a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=veryheavypickle&style=flat-square&color=EC6576" alt="Profile views"/>
-</div>
-
-
----
-
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=Singpurwala&count_private=true&title_color=EC6576&text_color=FFFFFF&icon_color=EC6576&bg_color=0D1117&hide_border=true" alt="Github stats">
+	<img src="https://github-readme-stats.vercel.app/api?username=soggyfox&count_private=true&title_color=EC6576&text_color=FFFFFF&icon_color=EC6576&bg_color=0D1117&hide_border=true" alt="Github stats">
 </div>
 
 <!-- To customise ^ https://github-readme-streak-stats.herokuapp.com/demo -->
 <div align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=veryheavypickle&hide_border=true&background=0D1117&stroke=FFFFFF&sideNums=FFFFFF&ring=EC6576&fire=EC6576&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=555555" alt="Github streak stats">
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=soggyfox&hide_border=true&background=0D1117&stroke=FFFFFF&sideNums=FFFFFF&ring=EC6576&fire=EC6576&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=555555" alt="Github streak stats">
 </div>
 
 <div align="center">
@@ -45,16 +15,12 @@ Here are some ideas to get you started:
 ---
 
 ### :technologist: About Me :
-I am an international Full Stack Developer speaking both English and Spanish and have lived in 4 countries, 9 different cities.
+I am a Full Stack Developer
 
-- 🔭 I’m currently working on updating my portfolio website, collecting all my programming projects to github and building my professional profile
-- 🌱 I’m currently learning Go Lang, Rust and Solidity
-- 👯 I’m looking to collaborate on a python minifier with proper refactoring
-- 🤔 I’m looking for help with a decentralised p2p store
-- 💬 Ask me about that one time I built an ALU with a machine code language to perform basic arithmetics
-- 📫 How to reach me: dev-yoda@proton.me
+- 🌱 I’m currently learning Swift
+- 📫 How to reach me: singpurwalakevin@gmail.com
 
-### :bike : Skills :
+### :hand : Skills :
 I have been professionally programming Python since 2016 and have completed projects involving advanced calculations for engineering projects, machine learning with TensorFlow and custom crypto technology.
 
 <!-- https://github.com/tandpfun/skill-icons#icons-list -->
