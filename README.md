@@ -29,9 +29,9 @@ I have been professionally programming Python since 2016 and have completed proj
 </div>
 
 ### :art: Creative Tools :
-I have many interests outside of programming inlcuding photography. Results can be viewed on my [creative portfolio](https://minimise.dev/) or my [Instagram](https://instagram.com/xavier.carroll) Here are some of the tools I use:
+I have many interests outside of programming inlcuding chess and video editing.
 
-<img src="https://skillicons.dev/icons?i=ae,ai,blender,sketchup" alt="Creative tools">
+<img src="https://skillicons.dev/icons?i=ae,ai" alt="Creative tools">
 
 
 - 🤔 I’m looking for help with ...
