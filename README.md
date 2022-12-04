@@ -1,7 +1,7 @@
 ### :technologist: About Me 
 I am a Full Stack Developer
 
-- 🌱 I’m currently learning Swift
+- 🌱 Learning Swift
 - :book: Worked Extensively with Angular and React
 - 📫 How to reach me: singpurwalakevin@gmail.com
 
