@@ -1,3 +1,17 @@
+<div id="header" align="center">
+  <img src="media/profile-transparant.svg" width="100"/>
+  <div id="badges">
+	<a href="https://www.linkedin.com/in/kevinsingpurwala2000/">
+		<img src="https://img.shields.io/badge/LinkedIn-393C46?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2" alt="LinkedIn Badge"/>
+	</a>
+	<a href="mailto:singpurwalakevin@gmail.com">
+		<img src="https://img.shields.io/badge/singpurwalakevin@gmail.com-393C46?logo=gmail&style=for-the-badge&logoColor=red" alt="Email badge"/>
+	</a>
+</div>
+<img src="https://komarev.com/ghpvc/?username=soggyfox&style=flat-square&color=EC6576" alt="Profile views"/>
+</div>
+
+
 ### :technologist: About Me 
 I am a Full Stack Developer
 
