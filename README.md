@@ -20,10 +20,8 @@ I am a Full Stack Developer
 - 📫 How to reach me: singpurwalakevin@gmail.com
 
 ###
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=soggyfox&count_private=true&title_color=EC6576&text_color=FFFFFF&icon_color=EC6576&bg_color=0D1117&hide_border=true" alt="s e stats">
+	<img src="https://github-readme-stats.vercel.app/api?username=Singpurwala&count_private=true&title_color=EC6576&text_color=FFFFFF&icon_color=EC6576&bg_color=0D1117&hide_border=true" alt="s e stats">
 </div>
 
 <!-- To customise ^ https://github-readme-streak-stats.herokuapp.com/demo -->
@@ -32,7 +30,7 @@ I am a Full Stack Developer
 </div>
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soggyfox&layout=compact&langs_count=6e&title_color=EC6576&text_color=FFFFFF&icon_color=EC6576&bg_color=0D1117&hide_border=true" alt="Language count">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soggyfox&layout=compacte&title_color=EC6576&text_color=FFFFFF&icon_color=EC6576&bg_color=0D1117&hide_border=true" alt="Language count">
 </div>
 
 
