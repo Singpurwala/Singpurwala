@@ -28,7 +28,6 @@ I am a Full Stack Developer
 <div align="center">
 	<img src="https://github-readme-streak-stats.herokuapp.com?user=soggyfox&hide_border=true&background=0D1117&stroke=FFFFFF&sideNums=FFFFFF&ring=EC6576&fire=EC6576&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=555555" alt="Github streak stats">
 </div>
-
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soggyfox&layout=compacte&title_color=EC6576&text_color=FFFFFF&icon_color=EC6576&bg_color=0D1117&hide_border=true" alt="Language count">
 </div>
