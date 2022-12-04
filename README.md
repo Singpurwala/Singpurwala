@@ -12,7 +12,7 @@
 </div>
 
 
-### :technologist: About Me 
+### :technologist: About Me:
 I am a Full Stack Developer
 
 - 🌱 Learning Swift
@@ -32,7 +32,7 @@ I am a Full Stack Developer
 </div>
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veryheavypickle&layout=compact&langs_count=6e&title_color=EC6576&text_color=FFFFFF&icon_color=EC6576&bg_color=0D1117&hide_border=true" alt="Language count">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soggyfox&layout=compact&langs_count=6e&title_color=EC6576&text_color=FFFFFF&icon_color=EC6576&bg_color=0D1117&hide_border=true" alt="Language count">
 </div>
 
 
