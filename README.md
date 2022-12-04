@@ -1,3 +1,14 @@
+---
+
+### :technologist: About Me :
+I am a Full Stack Developer
+
+- 🌱 I’m currently learning Swift
+- 📫 How to reach me: singpurwalakevin@gmail.com
+
+---
+
+###
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=soggyfox&count_private=true&title_color=EC6576&text_color=FFFFFF&icon_color=EC6576&bg_color=0D1117&hide_border=true" alt="Github stats">
@@ -12,13 +23,7 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veryheavypickle&layout=compact&langs_count=6e&title_color=EC6576&text_color=FFFFFF&icon_color=EC6576&bg_color=0D1117&hide_border=true" alt="Language count">
 </div>
 
----
 
-### :technologist: About Me :
-I am a Full Stack Developer
-
-- 🌱 I’m currently learning Swift
-- 📫 How to reach me: singpurwalakevin@gmail.com
 
 ### :hand : Skills :
 I have been professionally programming Python since 2016 and have completed projects involving advanced calculations for engineering projects, machine learning with TensorFlow and custom crypto technology.
