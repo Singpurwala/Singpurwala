@@ -17,7 +17,7 @@ I am a Full Stack Developer
 
 - 🌱 Learning Swift
 - :book: Worked Extensively with Angular and React
-- 📫 How to reach me: singpurwalakevin@gmail.com
+- 📫 How to reach me: emulatejunky@gmail.com
 
 ###
 <div align="center">
