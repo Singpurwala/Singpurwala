@@ -16,7 +16,7 @@
 I am a Full Stack Developer
 
 - 🌱 Learning Swift
-- :book: Worked Extensively with Angular and React
+- :book: Worked Extensively with Angular and C# .net
 - 📫 How to reach me: singpurwalakevin@gmail.com
 
 ###
